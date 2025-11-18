@@ -27,3 +27,5 @@ public class validParenthesis {
     sc.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)

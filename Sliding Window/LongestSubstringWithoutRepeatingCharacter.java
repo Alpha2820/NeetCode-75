@@ -24,3 +24,6 @@ public class LongestSubstringWithoutRepeatingCharacter {
     sc.close();
   }
 }
+// Time Complexity: O(n) where n is the length of the string
+// Space Complexity: O(min(m, n)) where m is the size of the character set and n
+// is the length of the string

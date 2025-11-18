@@ -37,3 +37,5 @@ public class LongestRepeatingCharacterReplacement {
   }
 
 }
+// Time Complexity: O(26 * n) => O(n) where n is the length of the string
+// Space Complexity: O(1)

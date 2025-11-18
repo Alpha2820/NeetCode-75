@@ -64,3 +64,5 @@ public class ReverseLinkedList {
     sc.close();
   }
 }
+// Time Complexity: O(n) where n is the number of nodes in the linked list
+// Space Complexity: O(1)

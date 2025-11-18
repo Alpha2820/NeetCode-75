@@ -68,3 +68,5 @@ public class ReorderList {
     scanner.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)

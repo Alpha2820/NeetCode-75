@@ -84,3 +84,6 @@ public class MergeKSorted {
     scanner.close();
   }
 }
+// Time Complexity: O(kN) where k is number of linked lists and N is average
+// length of each linked list
+// Space Complexity: O(1)

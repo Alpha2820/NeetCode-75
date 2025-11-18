@@ -76,3 +76,6 @@ public class MergeTwoSortedLinkedList {
     scanner.close();
   }
 }
+// Time Complexity: O(n + m) where n and m are the lengths of the two linked
+// lists
+// Space Complexity: O(1)

@@ -63,3 +63,5 @@ public class RemoveNodeFromEnd {
     scanner.close();
   }
 }
+// Time Complexity: O(L) where L is the length of the linked list
+// Space Complexity: O(1)

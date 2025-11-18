@@ -41,3 +41,5 @@ public class FindMedianInDataStream {
     scanner.close();
   }
 }
+// Time Complexity: O(log n) for addNum, O(1) for findMedian
+// Space Complexity: O(n)

@@ -74,3 +74,5 @@ public class LevelOrderTraversal {
     scanner.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(m) where m is the maximum number of nodes at any level

@@ -55,3 +55,5 @@ public class SerializeAndDeserialize {
     }
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)

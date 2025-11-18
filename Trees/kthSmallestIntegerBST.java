@@ -63,3 +63,5 @@ public class kthSmallestIntegerBST {
     scanner.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)

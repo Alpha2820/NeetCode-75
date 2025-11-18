@@ -55,3 +55,5 @@ public class BinaryTreeFromPreorderToInorder {
     scanner.close();
   }
 }
+// Time Complexity: O(n^2) in worst case due to array copying
+// Space Complexity: O(n) for the recursion stack and new arrays

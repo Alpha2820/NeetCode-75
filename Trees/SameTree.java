@@ -80,3 +80,6 @@ public class SameTree {
     scanner.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(h) where h is the height of the tree due to recursion
+// stack

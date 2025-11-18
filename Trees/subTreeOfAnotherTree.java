@@ -90,3 +90,7 @@ public class subTreeOfAnotherTree {
     scanner.close();
   }
 }
+// Time Complexity: O(m * n) where m and n are the number of nodes in trees s
+// and t respectively
+// Space Complexity: O(h) where h is the height of the tree due to recursion
+// stack

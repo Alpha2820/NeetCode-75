@@ -47,3 +47,6 @@ public class SetMatrixZero {
   }
 
 }
+// Time Complexity: O(m * n) where m is number of rows and n is number of
+// columns
+// Space Complexity: O(m + n)

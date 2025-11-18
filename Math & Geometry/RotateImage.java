@@ -44,3 +44,5 @@ public class RotateImage {
   }
 
 }
+// Time Complexity: O(n^2) where n is the number of rows or columns
+// Space Complexity: O(1)

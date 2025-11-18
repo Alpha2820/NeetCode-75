@@ -65,3 +65,6 @@ public class DesignAddAndSearchWords {
   }
 
 }
+// Time Complexity: O(m) for addWord, O(m * 26^n) for search in worst case with
+// wildcards
+// Space Complexity: O(m) for addWord

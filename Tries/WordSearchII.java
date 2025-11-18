@@ -72,3 +72,7 @@ public class WordSearchII {
     scanner.close();
   }
 }
+// Time Complexity: O(m * n * 4^l) where m and n are board dimensions and l is
+// the
+// maximum length of words
+// Space Complexity: O(k) where k is the total number of letters in the Trie

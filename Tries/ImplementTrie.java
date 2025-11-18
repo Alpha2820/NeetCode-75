@@ -66,3 +66,7 @@ public class ImplementTrie {
     scanner.close();
   }
 }
+
+// Time Complexity: O(m) for insert, search, and startsWith where m is the
+// length of the word/prefix
+// Space Complexity: O(m) for insert

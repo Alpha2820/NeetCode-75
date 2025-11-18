@@ -35,3 +35,5 @@ public class NonOverlaping {
     sc.close();
   }
 }
+// Time Complexity: O(n log n) due to sorting
+// Space Complexity: O(1)

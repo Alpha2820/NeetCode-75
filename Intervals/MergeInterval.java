@@ -40,3 +40,5 @@ public class MergeInterval {
   }
 
 }
+// Time Complexity: O(n log n) due to sorting
+// Space Complexity: O(n) for the result list

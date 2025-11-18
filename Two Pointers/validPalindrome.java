@@ -25,3 +25,5 @@ public class validPalindrome {
     sc.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)

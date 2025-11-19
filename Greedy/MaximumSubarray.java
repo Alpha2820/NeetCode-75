@@ -32,3 +32,5 @@ public class MaximumSubarray {
     sc.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)

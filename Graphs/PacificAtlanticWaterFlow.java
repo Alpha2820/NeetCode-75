@@ -62,3 +62,6 @@ public class PacificAtlanticWaterFlow {
     scanner.close();
   }
 }
+// Time Complexity: O(M * N) where M is the number of rows and N is the number
+// of columns
+// Space Complexity: O(M * N) for the reachability matrices and recursion stack

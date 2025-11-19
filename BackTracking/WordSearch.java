@@ -61,3 +61,5 @@ public class WordSearch {
   }
 
 }
+// Time Complexity: O(3^L) where L is the length of the word
+// Space Complexity: O(L)

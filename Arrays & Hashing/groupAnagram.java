@@ -29,3 +29,6 @@ public class groupAnagram {
     sc.close();
   }
 }
+// Time Complexity: O(n * k log k) where n is the number of strings and k is
+// the maximum length of a string
+// Space Complexity: O(n)

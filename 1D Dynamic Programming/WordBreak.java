@@ -41,3 +41,7 @@ public class WordBreak {
     sc.close();
   }
 }
+// Time Complexity: O(n * m * k) where n is the length of the string, m is the
+// number of words in the dictionary, and k is the average length
+// of the words
+// space Complexity: O(n) for the dp array

@@ -38,3 +38,5 @@ public class CoinChange {
     sc.close();
   }
 }
+// Time Complexity: O(n * m) where n is the amount and m is the number of coins
+// Space Complexity: O(n) for the dp array

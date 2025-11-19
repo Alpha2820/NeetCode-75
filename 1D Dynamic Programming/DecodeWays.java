@@ -34,3 +34,5 @@ public class DecodeWays {
     sc.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)

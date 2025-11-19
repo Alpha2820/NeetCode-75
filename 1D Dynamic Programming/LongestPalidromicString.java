@@ -40,3 +40,5 @@ public class LongestPalidromicString {
     sc.close();
   }
 }
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)

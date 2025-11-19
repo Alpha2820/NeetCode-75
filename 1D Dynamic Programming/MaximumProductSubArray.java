@@ -32,3 +32,5 @@ public class MaximumProductSubArray {
     sc.close();
   }
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)

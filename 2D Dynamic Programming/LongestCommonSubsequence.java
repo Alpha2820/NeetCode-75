@@ -28,3 +28,5 @@ public class LongestCommonSubsequence {
     sc.close();
   }
 }
+// Time Complexity: O(m*n)
+// Space Complexity: O(m*n)

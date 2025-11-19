@@ -78,3 +78,6 @@ public class AlienDictionary {
     sc.close();
   }
 }
+// Time Complexity: O(C + V) where C is the total number of characters in all
+// words and V is the number of unique characters
+// Space Complexity: O(C + V)

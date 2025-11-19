@@ -47,3 +47,6 @@ public class NumberOfIsland {
   }
 
 }
+// Time Complexity: O(M * N) where M is the number of rows and N is the number
+// of columns
+// Space Complexity: O(M * N) in the worst case for the recursion stack

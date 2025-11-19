@@ -46,3 +46,6 @@ public class NumberOfConnectedComponentsInAnUndirectedGraph {
     sc.close();
   }
 }
+// Time Complexity: O(V + E) where V is the number of vertices and E is the
+// number of edges
+// Space Complexity: O(V) for the adjacency list and visited array

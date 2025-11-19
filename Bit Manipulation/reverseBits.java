@@ -18,3 +18,5 @@ public class reverseBits {
     sc.close();
   }
 }
+// Time Complexity: O(1)
+// Space Complexity: O(1)

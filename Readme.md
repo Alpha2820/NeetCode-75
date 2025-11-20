@@ -91,6 +91,8 @@ Each topic contains solutions in separate files.
 
 ✔️ **All 75 problems completed**
 
+---
+
 ## 🤝 Contributions
 
 This repo is personal but contributions, suggestions, and optimizations are welcome! Feel free to open issues or pull requests.
